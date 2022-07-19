@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=CS 1.6 Russian
-Exec=env WINEPREFIX="/home/nurbek/.wine" wine-stable C:\\\\Games\\\\Counter-Strike\\ 1.6\\ Russian\\\\hl.exe -game\\ cstrike\\ -steam\\ -noforcemaccel\\ -noforcemspd
-Type=Application
-StartupNotify=true
-Path=/home/nurbek/.wine/dosdevices/c:/Games/Counter-Strike 1.6 Russian
-Icon=4C52_game.0
-StartupWMClass=hl.exe
