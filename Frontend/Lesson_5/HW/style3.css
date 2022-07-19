@@ -1,0 +1,29 @@
+body{
+    
+    background-image: url('../HW/imges/Фото/photo1121.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+}
+.box{
+    position: absolute;
+    margin-left: 355px;
+    margin-top: 126px;
+}
+
+.box1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 400px;
+}
+
+.box2{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 300px;
+
+}
+
+.box3{
+    position: absolute;
+    margin-left: 950px;
+}

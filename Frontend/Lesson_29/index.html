@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+    <script>
+        // let admins = [
+        //     {
+        //         login: "asan",
+        //         password: "1234"
+        //     },
+        //     {
+        //         login: "uson",
+        //         password: "2345"
+        //     },
+        //     {
+        //         login: "esen",
+        //         password: "3456"
+        //     },
+        //     {
+        //         login: "aman",
+        //         password: "4567"
+        //     }
+        // ]
+        // console.log(admins)
+        // let i = 0
+        // let users = null
+        // let found = false
+
+        // while (i < 3) {
+        //     let login = prompt('login ')
+        //     let password = prompt("password")
+        //     for (let i = 0; i < admins.length; i++) {
+        //         if (login === admins[i].login && password === admins[i].password) {
+        //             alert(`welcome ${admins[i].login}`);
+        //             found = true
+        //         }
+        //     }
+        //     if (found === true) {
+        //         break
+        //     } else {
+        //         if (i < 2) {
+        //             alert(`incored ${3 - i - 1}`)
+        //         } else {
+        //             alert('blocked')
+        //         }
+        //     }
+        //     i++
+        // }
+
+        let persons = [
+            { pin: '1234', price: 14000, user: 'Asan' },
+            { pin: '2345', price: 12000, user: 'Uson' },
+            { pin: '4321', price: 24000, user: 'Aiperi' },
+            { pin: '9876', price: 34000, user: 'Nurbek' },
+            { pin: '5678', price: 4000, user: 'Marat' },
+            { pin: '0000', price: 12000, user: 'Ainaz' },
+        ]
+
+        let users = null
+        let found = false
+        let i = 0
+        while (i < 3) {
+            let aler= prompt("Введите ваш пароль:   ")
+            for (let i=0; i<persons.length; i++){
+                if(aler === persons[i].pin){
+                    alert(`Дабро пажолвать ${persons[i].user}`)
+                    let admin = prompt("Сколько вы хотите снять денги")
+                    let sum = persons[i].price-admin
+                    alert(`У вас осталось ${sum} сом`)  
+                    found = true
+                }
+            }
+            if (found === true) {
+                break
+            } else {
+                if (i < 2) {
+                    alert(`incored ${3 - i - 1}`)
+                } else {
+                    alert('blocked')
+                }
+            }
+            i++
+        }
+
+
+
+    </script>
+</body>
+
+</html>

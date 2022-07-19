@@ -1,0 +1,116 @@
+.box {
+    width: 700px;
+    height: 630px;
+    border: 1px solid rgb(161, 9, 9);
+    padding: 5px;
+    margin: 0 50px;
+    position: relative;
+}
+.boxStart {
+    width: 97%;
+    position: absolute;
+    height: 130px;
+    border: 1px solid #000;
+    margin: 5px;
+    background-color: aqua;
+}
+.boxCenter_left {
+    position: absolute;
+    top:24%;
+    width: 430px;
+    height: 290px;
+    border: 1px solid #000;
+    
+    margin: 5px;
+    background-color:  aqua;
+}
+
+.cL1 {
+    position: absolute;
+    width: 155px;
+    height: 45%;
+    margin: 5px;
+    border: 1px solid;
+    background-color: yellow;
+}
+.cL2 {
+    position: absolute;
+    width: 255px;
+    height: 45%;
+    border: 1px solid;
+    /* display: inline-block; */
+    margin: 5px;
+    margin-left: 167px;
+    background-color: yellow;
+}
+
+.cL3 {
+    position: absolute;
+    width: 155px;
+    height: 45%;
+    margin: 5px;
+    top: 50%;
+    border: 1px solid;
+    /* display: inline-block; */
+    background-color: yellow;
+}
+.cL4 {
+    position: absolute;
+    width: 255px;
+    height: 45%;
+    right: 0;
+    top: 50%;
+    border: 1px solid;
+    /* display: inline-block; */
+    margin: 5px;
+    background-color: yellow;
+}
+.boxCenter_right {
+    position: absolute;
+    left: 63%;
+    top: 24%;
+    width: 247px;
+    height: 290px;
+    margin: 5px;
+    border: 1px solid #000;
+
+    background-color: aqua;
+}
+.cR1 {
+    position: absolute;
+    width: 235px;
+    height: 130px;
+    border: 1px solid #000;
+    margin: 5px;
+    background-color: yellow;
+}
+.cR2 {
+    position: absolute;
+    width: 235px;
+    height: 130px;
+    top: 50%;
+    border: 1px solid #000;
+    margin: 5px;
+    background-color: yellow;
+}
+.boxEnd_left {
+    position: absolute;
+    top: 73%;
+    width: 345px;
+    height: 160px;
+    border: 1px solid #000;
+    /* display: inline-block; */
+    margin: 5px;
+    background-color: aqua;
+}
+.boxEnd_right {
+    position: absolute;
+    right: 4px;
+    top:73%;
+    width: 335px;
+    height: 160px;
+    margin: 5px;
+    border: 1px solid #000;
+    /* display: inline-block; */
+    background-color:  aqua;
+}

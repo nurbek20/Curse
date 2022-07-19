@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+    <h1></h1>
+    <h2></h2>
+    <img src="" alt=" ">
+    <p></p>
+
+    <script>
+        let Api = 'https:api.nasa.gov/planetary/apod?api_key=Pbl9haowdHoU2SByR9AaVvQPM0GBULXameKMZaid'
+
+
+        fetch(Api)
+            .then(response => response.json())
+            .then(json => {
+                let box = document.querySelector('body')
+                let h1 = document.querySelector("h1")
+                let h2 = document.querySelector("h2")
+                let img = document.querySelector("img")
+                let text = document.querySelector("p")
+                console.log(json.date);
+                console.log(json.explanation);
+                console.log(json.hdurl);
+                console.log(json);
+                box.style.textAlign = 'center'
+                h1.innerHTML = json.date
+                h2.innerHTML = json.explanation
+                img.src = json.url
+                // img.innerHTML = `<img src=${json.url}/>`
+                text.innerHTML=json.title
+
+            })
+
+    </script>
+</body>
+
+</html>

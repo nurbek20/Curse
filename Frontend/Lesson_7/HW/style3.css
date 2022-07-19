@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: 10%;
+    border-radius: 20%;
+    position: relative;
+}
+.box::before{
+    position: absolute;
+    content: '';
+    width: 500px;
+    height: 250px;
+    border-radius:100px 100px 0 0;
+    background-color: yellow;
+}
+.box::after{
+    position: absolute;
+    content: '';
+    width: 250px;
+    top:250px;
+    left: 250px;
+    height: 250px;
+    border-radius:0 0 95px 0;
+    background-color: black;
+}

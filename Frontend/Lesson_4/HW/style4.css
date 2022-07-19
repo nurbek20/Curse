@@ -1,0 +1,21 @@
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    bottom: 0;
+    left: 35%;
+    transition: 2s;
+    padding: 10px;
+}
+
+img:hover {
+    background-color: aqua;
+    transform: rotate(7200deg) scale(1.5);
+}
+
+img:active {
+    transform: translateY(-1000px);
+    border-bottom: 100px solid chocolate;
+}
+

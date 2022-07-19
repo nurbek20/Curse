@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/main.css">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+        }
+
+        .btn {
+            /* display: flex; */
+            padding: 10px 30px;
+            margin: 50px 150px;
+            border-radius: 15px;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            color: white;
+        }
+
+        .text1 {
+            background-color: red;
+        }
+
+        .text2 {
+            background-color: green;
+        }
+
+        .text3 {
+            background-color: black;
+        }
+
+        .text4 {
+            background-color: white;
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+    <button class="btn text1">red</button>
+    <button class="btn text2">green</button>
+    <button class="btn text3">black</button>
+    <button class="btn text4">white</button>
+
+    <script >
+        let text1 = document.querySelector(".text1")
+        let text2 = document.querySelector(".text2")
+        let text3 = document.querySelector(".text3")
+        let text4 = document.querySelector(".text4")
+        text4.style.display = 'none'
+
+        text1.addEventListener('click', () => {
+            document.body.style.backgroundColor = 'red'
+            text1.style.display = 'none'
+            text2.style.display = 'block'
+            text3.style.display = 'block'
+            text4.style.display = 'block'
+        })
+        text2.addEventListener('click', () => {
+            document.body.style.backgroundColor = 'green'
+            text1.style.display = 'block'
+            text2.style.display = 'none'
+            text3.style.display = 'block'
+            text4.style.display = 'block'
+        })
+        text3.addEventListener('click', () => {
+            document.body.style.backgroundColor = 'black'
+            text1.style.display = 'block'
+            text2.style.display = 'block'
+            text3.style.display = 'none'
+            text4.style.display = 'block'
+        })
+        text4.addEventListener('click', () => {
+            document.body.style.backgroundColor = 'white'
+            text1.style.display = 'block'
+            text2.style.display = 'block'
+            text3.style.display = 'block'
+            text4.style.display = 'none'
+        })
+    </script>
+</body>
+
+</html>

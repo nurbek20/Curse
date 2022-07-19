@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&family=Lato:wght@100;400;700&display=swap"
+        rel="stylesheet">
+    <title>Document</title>
+    <style>
+        body {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+        }
+
+        h1 {
+            position: absolute;
+            left: 45%;
+            bottom: 50%;
+        }
+
+        .btn {
+            position: absolute;
+            bottom: 200px;
+            left: 200px;
+            padding: 10px 20px;
+        }
+
+        .btn1 {
+            position: absolute;
+            right: 200px;
+            bottom: 200px;
+            padding: 10px 20px;
+            /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+            /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <h1></h1>
+    <button class="btn">Sherif</button>
+    <button class="btn1">Color</button>
+    <script>
+        let text = prompt('Подтвердите действие!!!!!')
+        let h1 = document.querySelector('h1')
+        let btn = document.querySelector('.btn')
+        let btn1 = document.querySelector('.btn1')
+        h1.innerHTML = text
+        let color = ['red', 'blue', 'orange', '#333',]
+        let sherif = ['Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans - serif']
+        let i = 0;
+        btn1.addEventListener('click', () => {
+            document.body.style.backgroundColor = color[i]
+            document.body.style.color = 'white'
+            btn1.innerHTML = color[i]
+            i++
+            if (i == color.length) {
+                i = 0;
+            }
+        })
+        btn.addEventListener('click', () => {
+            h1.style.fontFamily = sherif[i]
+            btn.innerHTML = sherif[i]
+            i++
+            if (i == sherif.length) {
+                i = 0;
+            }
+        })
+
+    </script>
+</body>
+
+</html>

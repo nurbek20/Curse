@@ -1,0 +1,85 @@
+.box{
+    width: 600px;
+    height: 600px;
+    margin: 5% 5%;
+    background-color: aqua;
+    position: relative;
+}
+.config{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    transition: 3s;
+}
+.box1{
+    background-color: blue;
+    animation: bl 2s infinite;
+}
+.box2{
+    background-color: brown;
+    top: 120px;
+    left: 120px;
+    animation: br 3s 2s infinite;
+}
+
+.box3{
+    background-color: yellow;
+    transform: translate(-50%, -50%);
+    animation: ye 2s infinite;
+}
+
+@keyframes bl{
+    from, to{
+        top:0;
+        left: 0;
+    }
+    25%{
+        left: 0;
+        top: 480px;
+    }
+    50%{
+        top: 480px;
+        left: 480px;
+    }
+    75%{
+        left: 480px;
+        top: 0;
+    }
+}
+
+@keyframes br{
+    from, to{
+        top:120px;
+        left: 120px;
+    }
+    25%{
+        left: 360px;
+        top: 120px;
+    }
+    50%{
+        top:360px;
+        left: 360px;
+    }
+    75%{
+        
+        left:120px;
+        top: 360px;
+    }
+}
+
+@keyframes ye{
+    from,to{
+        top: 50%;
+        left: 50%;
+    }
+    50%{
+        border-radius: 50%;
+    }
+}
+
+/* .test{
+    width: 800px;
+    height: 1000px;
+    background: url('../../Lesson_5/HW/imges/Фото/photo1.jpg');
+    transform: rotateY(180deg);
+} */

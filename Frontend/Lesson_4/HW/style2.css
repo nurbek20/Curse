@@ -1,0 +1,100 @@
+.box{
+    width: 125px;
+    height: 345px;
+    background-color: cadetblue;
+    border: 8px solid black;
+}
+.box1{
+    width: 80px;
+    height:80px;
+    border:8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left:15px;
+    margin-top:15px;
+}
+.box1:hover{
+    background-color: green;
+}
+
+.box2{
+    width: 80px;
+    height: 80px;
+    border: 8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.box2:hover{
+    background-color: yellow;
+}
+
+.box3{
+    width: 80px;
+    height: 80px;
+    border:8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.box3:hover{
+    background-color: red;
+}
+
+.n{
+    margin-left: 15px;
+    width: 125px;
+    height: 345px;
+    background-color: cadetblue;
+    border: 8px solid black;
+}
+
+.n1{
+    width: 80px;
+    height:80px;
+    border:8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left:15px;
+    margin-top:15px;
+}
+.n1:hover{
+    background-color: green;
+}
+.n1:active{
+    background-color:brown;
+}
+
+.n2{
+    width: 80px;
+    height: 80px;
+    border: 8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.n2:hover{
+    background-color: yellow;
+}
+.n2:active{
+    background-color:brown;
+}
+
+.n3{
+    width: 80px;
+    height: 80px;
+    border:8px solid black;
+    border-radius: 100%;
+    transition: .2s;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.n3:hover{
+    background-color: red;
+}
+.n3:active{
+    background-color: brown;
+}

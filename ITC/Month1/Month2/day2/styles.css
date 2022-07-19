@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(121,188,251);
+    background-image: url('https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/patterns/26/01f37f3713608053.jpg');
+
+}
+h1{
+    /* background-color: aquamarine; */
+    /* color: red; */
+    /* color: rgb(155, 50, 255); */
+    /* color: rgb(155, 50, 255, 0.2); */
+    opacity:0.6;
+    color:#ffffff;
+    color:darkred;
+    /* color:#4dff; */
+    font-size: 44px;
+    font-weight: normal;
+    font-family: Signika Negative;
+} 
+ins{
+    font-size: 44px;
+    background-color: green;
+}
+.first-div{
+    background-color: gold;
+}
+.second-div{
+    background-color: blue;
+    font-size: 36px;
+    font-style: italic;
+}
+a{
+    font-size: 48px;
+    color: white;
+    text-decoration: none;
+    text-decoration: capitalize;
+    font-style:italic;
+    padding: 25px;
+}
+a:hover{
+    color:yellowgreen;
+    transition: all 0.8s;
+}
+.A{
+    width: 360px;
+    height: 360px;
+    background-color: tomato;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 80px;
+    /* padding-left: 100px; */
+    padding: 200px 100px;
+}
+
+.B{
+    margin-top: 300px;
+    width: 600px;
+    height: 400px;
+    background-color: orange;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+    /* text-align: left; */
+}

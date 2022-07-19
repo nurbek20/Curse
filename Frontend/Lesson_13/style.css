@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(55, 60, 60);
+}
+
+/* .grid__container {
+    padding: 10px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 10px;
+    border: 3px solid red;
+}
+
+.box {
+    border: 3px solid white;
+} */
+
+.block {
+    display: grid;
+    height: 100vh;
+    border: 3px solid white;
+    grid-gap: 10px;
+    padding: 10px;
+    grid-template-areas: 
+    'h1 h1 h2'
+    'h3 h5 h2'
+    'h3 h4 h4';
+}
+
+
+.boxx, .n {
+    border: 1px solid white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    background-image: url('https://mixnews.lv/wp-content/uploads/2020/09/18/2020-09-18-mixnews-1594109847_krasota-prirody-na-fotografiyax-19.jpg');
+    grid-area: h1;
+}
+
+.box2 {
+    background-image: url('https://funart.pro/uploads/posts/2021-03/1617041585_15-p-oboi-krasivie-foto-prirodi-18.jpg');
+    grid-area: h2;
+}
+
+.box3 {
+    background-image: url('https://funart.pro/uploads/posts/2021-03/1617041585_15-p-oboi-krasivie-foto-prirodi-18.jpg');
+    grid-area: h3;
+}
+
+.box4 {
+    background-image: url('https://bipbap.ru/wp-content/uploads/2017/04/Gory-i-zakat-kartinki-krasivye-foto-021.jpg');
+    grid-area: h4;
+}
+
+.box5 {
+    grid-area: h5;
+    display: grid;
+    border: 3px solid white;
+    grid-gap: 10px;
+    padding: 10px;
+    background-image: url('https://bipbap.ru/wp-content/uploads/2017/04/Gory-i-zakat-kartinki-krasivye-foto-021.jpg');
+    grid-template-areas: 
+    'n1 n1 n2'
+    'n3 n5 n2'
+    'n3 n4 n4';
+}
+
+.n {
+    border: 1px solid red;
+}
+
+.nBox1 {
+    background-image: url('https://funart.pro/uploads/posts/2021-07/1625735776_28-funart-pro-p-pitbul-chernii-zhivotnie-krasivo-foto-42.jpg');
+    grid-area: n1;
+}
+
+.nBox2 {
+    background-image: url('https://funart.pro/uploads/posts/2021-03/1617048969_52-p-oboi-krasivie-peizazhi-prirodi-56.jpg');
+    grid-area: n2;
+}
+
+.nBox3 {
+    background-image: url('https://w-dog.ru/wallpapers/10/2/342751562195980.jpg');
+    grid-area: n3;
+}
+
+.nBox4 {
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/0d/22/8f/75/foto-loca-salar.jpg');
+    grid-area: n4;
+}
+
+.nBox5 {
+    background-image: url('https://i.pinimg.com/474x/83/27/d6/8327d6c5616ba74f2b5746539166279a.jpg');
+    grid-area: n5;
+}

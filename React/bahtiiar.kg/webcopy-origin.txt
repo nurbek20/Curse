@@ -1,0 +1,1828 @@
+Uri: https://bahtiiar.com/static/css/main.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\css\main.min-1.css
+Content Type: text/css
+
+Uri: https://bahtiiar.com/static/css/separate-css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\css\separate-css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://bahtiiar.com/static/fonts/Rubik-Bold.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Bold-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/fonts/Rubik-Light.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Light-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/fonts/Rubik-Regular.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Regular-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/img/general/bg-404.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-404-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.com/static/img/general/bg-bottom.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-bottom-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/bg-gift.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-gift-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/bg-message.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-message-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/bg-thanks.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-thanks-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/descr-bg.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\descr-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.com/static/img/general/icon-check.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/img/general/icon-link.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-link-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/icon-phone.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-phone-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/icon-review.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-review-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/icon-view.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-view-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/logo.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\logo-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/message-box.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\message-box-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/message-photo.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\message-photo-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/micon-close.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon-close-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/micon-gift.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon-gift-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/micon_phone.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_phone-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/micon_skype.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_skype-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/micon_whatsapp.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_whatsapp-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/phone-call.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\phone-call-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/general/progress-bg.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\progress-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.com/static/img/general/skype.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\skype-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/static/img/minified-svg/curverd-arrow.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\curverd-arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/img/minified-svg/word-black.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\word-black-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/img/minified-svg/word.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\word-1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.com/static/js/jquery.pjax.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\jquery.pjax-1.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.com/static/js/main.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\main.min-1.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.com/static/js/separate-js/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\jquery-2.2.4.min-1.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.com/static/js/separate-js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\jquery.cookie-1.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.com/static/js/separate-js/modernizr.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\modernizr-1.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/05/blog-331.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\05\blog-331.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/07/фейсб.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\фейсб.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/07/1000-x-650-1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\1000-x-650-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/07/970x90.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\970x90.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/07/site1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\site1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/10/1d1683107d-300x146.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\1d1683107d-300x146.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/10/6.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\6.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/10/7.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\7.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/10/8.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\8.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/11/1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\11\1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/11/3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\11\3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.com/wp-content/uploads/2019/11/5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\11\5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/14-voprosov-klientu-kotorye-pomogut-uvelichit-chislo-prodazh.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\14-voprosov-klientu-kotorye-pomogut-uvelichit-chislo-prodazh.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/3-podhoda-k-sozdaniu-saita.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\3-podhoda-k-sozdaniu-saita.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/8-sposobov-popolneniya-zhiznennoj-energii.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\8-sposobov-popolneniya-zhiznennoj-energii.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/amo-crm/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\amo-crm\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/amo-crm/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\amo-crm\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/amocrm.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\amocrm.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/amp.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\amp.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/blog.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\blog.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/blog/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\blog\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/company.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\company.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/develop-mobile.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\develop-mobile.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/develop.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\develop.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/favicon.ico
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://bahtiiar.kg/files/brief-design.docx
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\brief-design.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://bahtiiar.kg/files/brief-logo.docx
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\brief-logo.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://bahtiiar.kg/files/brief-text.docx
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\brief-text.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://bahtiiar.kg/files/contract-example.docx
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\contract-example.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://bahtiiar.kg/files/present-2.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-2.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-3.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-3.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-4.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-4.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-5.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-5.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-6.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-6.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-7.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-7.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/present-8.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\present-8.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/files/Presentation1.pdf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\files\Presentation1.pdf
+Content Type: application/pdf
+
+Uri: https://bahtiiar.kg/internet-marketing-kit-na-kotorom-derzhitsya-sovremennyij-biznes.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\internet-marketing-kit-na-kotorom-derzhitsya-sovremennyij-biznes.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/iskusstvo-dogovarivatsya-kak-stat-masterom-delovyh-peregovorov.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\iskusstvo-dogovarivatsya-kak-stat-masterom-delovyh-peregovorov.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kak-opredelit-celevuyu-auditoriyu-dlya-luchshego-marketinga.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kak-opredelit-celevuyu-auditoriyu-dlya-luchshego-marketinga.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kak-ponyat-nuzhen-li-vam-klient-12-pravil-effektivnogo-sotrudnichestva.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kak-ponyat-nuzhen-li-vam-klient-12-pravil-effektivnogo-sotrudnichestva.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kak-popast-v-okruzhenie-v-kotorom-legko-rasti.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kak-popast-v-okruzhenie-v-kotorom-legko-rasti.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kak-reklamirovat-sajt-v-internete.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kak-reklamirovat-sajt-v-internete.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kontekstnaya-reklama/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kontekstnaya-reklama\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/kontekstnaya-reklama/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\kontekstnaya-reklama\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/new-site/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\new-site\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/new-site/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\new-site\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/obuchenie-marketingu-i-razvitiyu-biznesa/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\obuchenie-marketingu-i-razvitiyu-biznesa\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/obuchenie-marketingu-i-razvitiyu-biznesa/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\obuchenie-marketingu-i-razvitiyu-biznesa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/pamir/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-2_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-2_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-2_flat1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-2_flat1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-2_flat2.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-2_flat2.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-3_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-3_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-4_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-4_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1-4_flat1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1-4_flat1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2-1_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2-1_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2-2_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2-2_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2-2_flat1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2-2_flat1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2-3_flat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2-3_flat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2-3_flat1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2-3_flat1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/6.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\6.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_1-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_10-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_10-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_11-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_11-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_12-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_12-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_13-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_13-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_14-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_14-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_15-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_15-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_16-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_16-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_17-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_17-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_18-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_18-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_19-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_19-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_2-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_2-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_20-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_20-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_21-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_21-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_22-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_22-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_3-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_4-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_5-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_5-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_6-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_6-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_7-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_7-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_8-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_8-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/about_us_9-scaled.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\about_us_9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/admin-bar.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\admin-bar.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/autoptimize_2974250b4d6905857bb45e81274ac92b.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\autoptimize_2974250b4d6905857bb45e81274ac92b.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/autoptimize_e06be322ecbfc23bc8a95b0b141acda8.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\autoptimize_e06be322ecbfc23bc8a95b0b141acda8.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/call.tracker.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\call.tracker.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/common.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\common.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/controls.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\controls.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/cropped-logo-header.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\cropped-logo-header.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\css
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/dashicons.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\dashicons.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/Montserrat/Montserrat-Italic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\Montserrat\Montserrat-Italic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/Montserrat/Montserrat-Medium.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\Montserrat\Montserrat-Medium.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/Montserrat/Montserrat-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\Montserrat\Montserrat-MediumItalic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/Montserrat/Montserrat-Regular.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\Montserrat\Montserrat-Regular.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/OpenSans/OpenSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\OpenSans\OpenSans-Bold.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/OpenSans/OpenSans-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\OpenSans\OpenSans-BoldItalic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/OpenSans/OpenSans-Italic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\OpenSans\OpenSans-Italic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/OpenSans/OpenSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\OpenSans\OpenSans-Regular.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-Black.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-Black.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-BlackItalic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-Bold.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-BoldItalic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-Italic.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\fonts\PlayfairDisplay\PlayfairDisplay-Regular.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/google4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\google4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/icons/arrow-left-active.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\icons\arrow-left-active.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/icons/arrow-left.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\icons\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/icons/arrow-right-active.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\icons\arrow-right-active.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/icons/arrow-right.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\icons\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/instagram.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\instagram.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/jquery.min.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\jquery.min.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\js
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/logo-header.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\logo-header.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/logo-map.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\logo-map.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/main-bg.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\main-bg.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/map.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\map.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/marker.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\marker.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/onion.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\onion.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/saved_resource.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\saved_resource.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/STARS.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\STARS.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/util.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\util.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(1)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(1)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(10)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(10)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(11)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(11)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(12)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(12)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(13)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(13)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(14)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(14)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(2)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(2)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(3)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(3)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(4)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(4)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(5)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(5)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(6)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(6)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(7)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(7)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(8)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(8)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/vt(9)
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\vt(9)
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/pamir/Pamir Residence_files/wp-emoji-release.min.js.Без названия
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pamir\Pamir Residence_files\wp-emoji-release.min.js.Без названия
+Content Type: text/javascript
+
+Uri: https://bahtiiar.kg/post.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\post.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/presentations.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\presentations.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/projects/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\projects\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/psihologiya-prodazh-kak prodavat-chto-ugodno-i-komu-ugodno.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\psihologiya-prodazh-kak prodavat-chto-ugodno-i-komu-ugodno.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/razrabotka-mobilnyh-prilozhenij/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-mobilnyh-prilozhenij\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/razrabotka-mobilnyh-prilozhenij/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-mobilnyh-prilozhenij\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/razrabotka-prezentaczij-i-kp/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-prezentaczij-i-kp\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/razrabotka-prezentaczij-i-kp/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-prezentaczij-i-kp\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/razrabotka-saita-bishkek/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-saita-bishkek\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/razrabotka-saita-bishkek/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka-saita-bishkek\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/razrabotka/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/razrabotka/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\razrabotka\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/rejting-amazon-top-10-knig-po-biznesu-sentyabr-2017.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\rejting-amazon-top-10-knig-po-biznesu-sentyabr-2017.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/reklama.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\reklama.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/rekvisiy/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\rekvisiy\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/rekvisiy/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\rekvisiy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/sekretyi-effektivnoj-bannernoj-reklamyi.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sekretyi-effektivnoj-bannernoj-reklamyi.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/services.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\services.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/skolko-stoit-domen-i-hosting.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\skolko-stoit-domen-i-hosting.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/smm-2/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\smm-2\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/smm-2/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\smm-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/sovremennii-biznes.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sovremennii-biznes.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/sozdanie-logotipa-razrabotka-dizajn/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sozdanie-logotipa-razrabotka-dizajn\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/sozdanie-logotipa-razrabotka-dizajn/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sozdanie-logotipa-razrabotka-dizajn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/sozdanie-saytov-pod-kluch/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sozdanie-saytov-pod-kluch\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/sozdanie-saytov-pod-kluch/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\sozdanie-saytov-pod-kluch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/static/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/static/css/main.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\css\main.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/static/css/separate-css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\css\separate-css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont.woff2
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\fontawesome-webfont.woff
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Bold.eot
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Bold.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Bold.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Bold.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Bold.woff
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Bold.woff
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Light.eot
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Light.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Light.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Light.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Light.woff
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Light.woff
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Regular.eot
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Regular.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Regular.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Regular.ttf
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/fonts/Rubik-Regular.woff
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\fonts\Rubik-Regular.woff
+Content Type: text/plain
+
+Uri: https://bahtiiar.kg/static/img/content/баннер5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\баннер5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-6.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/article-img-7.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img-7.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/article-img.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-img.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/article-main-img.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\article-main-img.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-24.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-24.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-31.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-31.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-311.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-311.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-32.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-32.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-321.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-321.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-331.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-331.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-351.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-351.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-360.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-360.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-361.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-361.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/blog-362.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\blog-362.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/cat.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\cat.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/content/kit.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\kit.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/content/projects.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\content\projects.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/back_to_top.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\back_to_top.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/bg-404.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-404.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/bg-bottom.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-bottom.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/bg-gift.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-gift.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/bg-message.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-message.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/bg-promo.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-promo.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/bg-thanks.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\bg-thanks.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/blog1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/blog2.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/blog3.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/blog5.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/descr-bg.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\descr-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/icon-check.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/icon-link.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-link.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/icon-phone.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-phone.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/icon-review.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-review.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/icon-update.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-update.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/icon-view.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon-view.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/icon_retweet.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\icon_retweet.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/logo.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\logo.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/message-box.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\message-box.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/message-photo.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\message-photo.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/micon-close.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon-close.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/micon-gift.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon-gift.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/micon_phone.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_phone.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/micon_skype.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_skype.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/micon_whatsapp.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\micon_whatsapp.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/offer1.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer1.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer2.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer2.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer3.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer3.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer4.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer4.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer5.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer5.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer6.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer6.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/offer7.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\offer7.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/general/phone-call.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\phone-call.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/photo2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/photo3.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo3.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/photo4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/photo5.jpeg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo5.jpeg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/photo7.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo7.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/photo9.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\photo9.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/6.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\6.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/7.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\7.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/portfolio_logo/8.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\portfolio_logo\8.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/post1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\post1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/post2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\post2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/post3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\post3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-2.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-2.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-3.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-3.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-4.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-4.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-5.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-5.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-7.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-7.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present-8.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present-8.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/present1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\present1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/progress-bg-img.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\progress-bg-img.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/progress-bg.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\progress-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/project10.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\project10.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/project6.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\project6.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/project8.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\project8.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/project9.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\project9.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/static/img/general/quote.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\quote.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/skype.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\skype.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/general/steps.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\general\steps.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/static/img/minified-svg/curverd-arrow.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\curverd-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/minified-svg/word-black.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\word-black.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/img/minified-svg/word.svg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\img\minified-svg\word.svg
+Content Type: image/svg+xml
+
+Uri: https://bahtiiar.kg/static/js/jquery.pjax.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\jquery.pjax.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/static/js/main.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/static/js/separate-js/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/static/js/separate-js/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/static/js/separate-js/modernizr.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\static\js\separate-js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/tag/amo/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\amo\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/biznes/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\biznes\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/crm/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\crm\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/dizajn/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\dizajn\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/kp/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\kp\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/logotip/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\logotip\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/marketing/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\marketing\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/mobilnyj/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\mobilnyj\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/prezentaczii/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\prezentaczii\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/prilozheniya/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\prilozheniya\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/razrabotka-sajta/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\razrabotka-sajta\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/reklama/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\reklama\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/smm/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\smm\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/sozdanie-sajta/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\sozdanie-sajta\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/tag/sozdanie/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tag\sozdanie\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/top-30-idej-kontenta-dlya-prodvizheniya-biz/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\top-30-idej-kontenta-dlya-prodvizheniya-biz\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/top-30-idej-kontenta-dlya-prodvizheniya-biz/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\top-30-idej-kontenta-dlya-prodvizheniya-biz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/top-30-idej-kontenta-dlya-prodvizheniya-biznesa-v-soczsetyax.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\top-30-idej-kontenta-dlya-prodvizheniya-biznesa-v-soczsetyax.html
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/vidy-saytov/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\vidy-saytov\index.htm
+Content Type: text/html
+
+Uri: https://bahtiiar.kg/vidy-saytov/feed/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\vidy-saytov\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/01/123321.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\01\123321.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/01/top10-1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\01\top10-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/05/blog-331-1024x536.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\05\blog-331-1024x536.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/05/blog-331-300x157.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\05\blog-331-300x157.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/05/blog-331-768x402.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\05\blog-331-768x402.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/05/blog-331.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\05\blog-331-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/1000-x-650-1-300x195.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\1000-x-650-1-300x195.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/1000-x-650-1-768x499.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\1000-x-650-1-768x499.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/1000-x-650-1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\1000-x-650-1-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/970x90-300x28.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\970x90-300x28.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/970x90-768x71.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\970x90-768x71.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/970x90.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\970x90-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/Design-20.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\Design-20.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/site1-1024x640.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\site1-1024x640.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/site1-300x188.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\site1-300x188.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/site1-768x480.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\site1-768x480.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/07/site1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\07\site1-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/10/1d1683107d-1024x499.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\1d1683107d-1024x499.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/10/1d1683107d-300x146.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\1d1683107d-300x146-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/10/1d1683107d-768x374.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\1d1683107d-768x374.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/10/SMM-1.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\SMM-1.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2019/10/SMM-14.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2019\10\SMM-14.png
+Content Type: image/png
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/05/kant-min.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\05\kant-min.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/05/pamir-min.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\05\pamir-min.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/08/screenshot_1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\08\screenshot_1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/08/screenshot_2.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\08\screenshot_2.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_1-300x209.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_1-300x209.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_1.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_1.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_17-300x207.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_17-300x207.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_17.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_17.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_19-300x242.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_19-300x242.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_19.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_19.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_21-300x234.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_21-300x234.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_21.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_21.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_22-217x300.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_22-217x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_22.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_22.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_23-300x142.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_23-300x142.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_23.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_23.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_25-300x123.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_25-300x123.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_25.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_25.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_26-300x127.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_26-300x127.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_26.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_26.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_27-300x146.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_27-300x146.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_27.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_27.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_28-300x162.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_28-300x162.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_28.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_28.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_29-300x146.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_29-300x146.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_29.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_29.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_7-300x147.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_7-300x147.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_7.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_7.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_8-300x158.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_8-300x158.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-content/uploads/2021/09/screenshot_8.jpg
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2021\09\screenshot_8.jpg
+Content Type: image/jpeg
+
+Uri: https://bahtiiar.kg/wp-includes/css/dist/block-library/style.min.css?ver=5.2.15
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bahtiiar.kg/wp-includes/js/wp-embed.min.js?ver=5.2.15
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://bahtiiar.kg/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Famo-crm%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Famo-crm%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fkontekstnaya-reklama%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fkontekstnaya-reklama%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fnew-site%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fnew-site%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fobuchenie-marketingu-i-razvitiyu-biznesa%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fobuchenie-marketingu-i-razvitiyu-biznesa%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-mobilnyh-prilozhenij%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-mobilnyh-prilozhenij%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-prezentaczij-i-kp%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-prezentaczij-i-kp%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-saita-bishkek%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frazrabotka-saita-bishkek%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frekvisiy%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Frekvisiy%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsmm-2%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsmm-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsozdanie-logotipa-razrabotka-dizajn%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsozdanie-logotipa-razrabotka-dizajn%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsozdanie-saytov-pod-kluch%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fsozdanie-saytov-pod-kluch%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Ftop-30-idej-kontenta-dlya-prodvizheniya-biz%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Ftop-30-idej-kontenta-dlya-prodvizheniya-biz%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fvidy-saytov%2F
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://bahtiiar.kg/wp-json/oembed/1.0/embed?url=https:%2F%2Fbahtiiar.kg%2Fvidy-saytov%2F&format=xml
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://bahtiiar.kg/zhizn-stanet-uspeshnoj-60-poleznyix-sovetov.html
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\zhizn-stanet-uspeshnoj-60-poleznyix-sovetov.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/vanilla-lazyload@11.0.6/dist/lazyload.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\npm\vanilla-lazyload@11.0.6\dist\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\ajax\libs\fancybox\3.3.5\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\ajax\libs\fancybox\3.3.5\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:300i,400,700
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v20/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\s\rubik\v20\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v20/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\s\rubik\v20\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v20/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\s\rubik\v20\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://free-png.ru/wp-content/uploads/2020/11/21-215328_-google-png-animated-logos-f94db687.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\wp-content\uploads\2020\11\21-215328_-google-png-animated-logos-f94db687.png
+Content Type: image/png
+
+Uri: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/831010954/?random=1533831608468&cv=9&fst=1533831608468&num=1&guid=ON&resp=GooglemKTybQhCsO&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=180&u_java=false&u_nplug=3&u_nmime=4&sendb=1&frm=0&url=http:%2F%2Fbahtiiar.com%2Fblog%2Fmarketing%2Fbesplatnyij-sajt-protiv-platnogo-preimushhestva-i-nedostatki-kazhdogo-iz-nix.html&tiba=Бесплатный сайт против платного: преимущества&rfmt=3&fmt=4
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pagead\viewthroughconversion\831010954\f.txt
+Content Type: text/javascript
+
+Uri: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/831010954/?random=1533831608519&cv=9&fst=1533831608468&num=3&guid=ON&resp=GooglemKTybQhCsO&eid=376635470&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=180&u_java=false&u_nplug=3&u_nmime=4&sendb=1&frm=0&url=http:%2F%2Fbahtiiar.com%2Fblog%2Fmarketing%2Fbesplatnyij-sajt-protiv-platnogo-preimushhestva-i-nedostatki-kazhdogo-iz-nix.html&tiba=Бесплатный сайт против платного: преимущества&rfmt=3&fmt=4
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pagead\viewthroughconversion\831010954\f-1.txt
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDaQNADf4HIoahDtQVLzcl1iQEQ6I5QKBE
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maps.gstatic.com/mapfiles/openhand_8_8.cur
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\mapfiles\openhand_8_8.cur
+Content Type: image/bmp
+
+Uri: https://mc.yandex.ru/metrika/tag.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\metrika\tag.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/38531050
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\watch\38531050
+Content Type: image/gif
+
+Uri: https://media.lpgenerator.ru/uploads/2018/05/21/2018-05-21_101317_thumb608x300.png
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\uploads\2018\05\21\2018-05-21_101317_thumb608x300.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=513748935776181&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tr
+Content Type: image/gif
+
+Uri: https://www.facebook.com/tr?id=883591372122369&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\tr-1
+Content Type: image/gif
+
+Uri: https://www.google.kg/pagead/1p-user-list/831010954/?guid=ON&script=0&is_vtc=1&random=1214156315&ipr=y
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pagead\1p-user-list\831010954\index.htm
+Content Type: image/gif
+
+Uri: https://www.googleadservices.com/pagead/conversion.js
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pagead\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googleadservices.com/pagead/conversion/831010954/?random=1533831608491&cv=9&fst=1533831608468&num=2&label=If0VCNWLwncQivGgjAM&guid=ON&resp=GooglemKTybQhCsO&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=180&u_java=false&u_nplug=3&u_nmime=4&sendb=1&frm=0&url=http:%2F%2Fbahtiiar.com%2Fblog%2Fmarketing%2Fbesplatnyij-sajt-protiv-platnogo-preimushhestva-i-nedostatki-kazhdogo-iz-nix.html&tiba=Бесплатный сайт против платного: преимущества&rfmt=3&fmt=4
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\pagead\conversion\831010954\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-670207721
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\gtag\js-2
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-777601044
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-131675753-1
+File Name: C:\Downloaded Web Sites\bahtiiar.kg\gtag\js-1
+Content Type: application/javascript
+

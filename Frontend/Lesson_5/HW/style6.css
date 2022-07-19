@@ -1,0 +1,48 @@
+.box {
+    position: fixed;
+    padding: 10px;
+    border: 1px solid;
+    background-color: aqua;
+
+}
+
+.box1 {
+    width: 100%;
+    height: 700px;
+    background-image: url('./imges/Фото/photo1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.box2 {
+    width: 100%;
+    height: 700px;
+    background-image: url('./imges/Фото/photo2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box3 {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box4 {
+    width: 500vh;
+    height: 700px;
+    background-image: url('./imges/Фото/photo1.jpg');
+    background-attachment: fixed;
+}
+
+.box5 {
+    width: 500vh;
+    height: 700px;
+    background-image: url('./imges/Фото/photo2.jpg');
+    background-attachment: fixed;
+}

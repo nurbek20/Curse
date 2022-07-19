@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/49/519/824/outer-space-stars-galaxies-planets-1920x1200-space-galaxies-hd-art-wallpaper-preview.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box{
+    width: 900px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 200px;
+    background-image: url('https://umnazia.ru/wp-content/uploads/2021/01/planety-solnechnoj-sistemy.jpg');
+    position: relative;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+}

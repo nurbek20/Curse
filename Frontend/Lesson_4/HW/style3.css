@@ -1,0 +1,103 @@
+/* .box{
+    height: 450px;
+    width: 450px;
+    background-image: url('https://klike.net/uploads/posts/2021-04/1618815701_51.jpg');
+    
+} */
+
+.n7{
+    width: 590px;
+    height: 750px;
+    box-shadow:  20px 20px 20px 0px rgb(192, 180, 180);
+}
+.img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    margin-top:40px;
+    margin:20px;
+    width: 550px;
+    height: 450px;
+    background-image: url('https://klike.net/uploads/posts/2021-04/1618815701_51.jpg');
+}
+.n8{
+    margin-left: 20px;
+    margin:20px;
+    padding: 20px 200px 20px 320px;
+    background-color: aqua;
+}
+.box1{
+    margin-left: 100px;
+    width: 390px;
+    height: 750px;
+    box-shadow: 20px 20px 20px 0px rgb(192, 180, 180);
+}
+
+.box2{
+    /* margin-left: 200px; */
+    margin:20px;
+    width: 350px;
+    height: 450px;
+    background-image: url('https://www.istockphoto.com/resources/images/PhotoFTLP/998044806.jpg');
+}
+.box3{
+    margin-left:20px;
+}
+.n2{
+    margin-top: 25px;
+    margin-left: 30px;
+    padding:20px 150px 20px 150px;
+    background-color: aqua;
+}
+.n5{
+    margin-top: 100px;
+    width: 300px;
+    height: 650px;
+    box-shadow: 20px 20px 20px 0px rgb(192, 180, 180);
+
+}
+.box5{
+    margin:20px;
+    width: 270px;
+    height: 350px;
+    background-image: url('http://www.rosphoto.com/images/u/articles/1510/4_8.jpg');
+}
+.nn{
+    margin-left: 20px;
+    padding: 20px 120px 20px 120px;
+    background-color: aqua;
+}
+
+.nn1{
+    margin-top: 100px;
+    width: 300px;
+    height: 650px;
+    box-shadow: 20px 20px 20px 0px rgb(192, 180, 180); 
+}
+.box6{
+    margin: 20px;
+    width: 270px;
+    height: 350px;
+    background-image: url('https://images.unsplash.com/photo-1606946887361-78feb162a525?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm90b3xlbnwwfHwwfHw%3D&w=1000&q=80');
+}
+
+.nn3{
+    margin-top: 100px;
+    width: 300px;
+    height: 650px;
+    box-shadow: 20px 20px 20px 0px rgb(192, 180, 180); 
+}
+.box7{
+    margin: 20px;
+    width: 270px;
+    height: 350px;
+    background-image: url('https://u01.appmifile.com/images/2018/07/03/bc3e8f41-3346-4570-81d8-84dbbe531147.jpg');
+}
+.box4{
+    width: 1100px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}

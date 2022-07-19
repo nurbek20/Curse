@@ -1,0 +1,144 @@
+.block{
+    height: 500px;
+    width: 500px;
+    background-color:black;
+    position: absolute;
+    margin-left:200px;
+    position: relative;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left:100%;
+    top:100%;
+    transform: translate(-100%, -100%);
+    right: 0;
+    bottom: 0;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    right:0;
+    top:0;
+}
+.box3{   
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    bottom: 0px;
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+.box2{
+    right:0;
+    top:0; 
+}
+
+.box3{
+    bottom: 0;
+}
+.box4{
+    right: 0;
+    bottom: 0;
+}
+.box5{
+    left:50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content{
+    color:red;
+}
+.block, .box, .header, .content, .content1 h1{
+    color:red;
+}
+.block{
+    border: 3px dotted black;
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+    position: relative;
+}
+.box{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+}
+
+.box1{
+    background-color: purple;
+    z-index: 1;
+}
+
+.box2{
+    background-color:chartreuse;
+    left:20px;
+}
+
+.box3{
+    background-color:teal;
+    left:40px;
+}
+.block{
+    border: 3px dotted black;
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+    position: relative;
+    /* transform: 2s; */
+}
+
+.block .box{
+    background-color:green;
+    width: 150px;
+    height: 150px;
+    /* transform: 15s; */
+    position: absolute;
+    margin:0px;
+}
+
+.box:hover{
+    background-color: red;
+    transform: rotate();
+}
+
+
+.box:hover{
+    background-color:black;
+    transition: 5s;
+    transform: rotate(3600000000000deg);
+    border-radius: 100%;
+}
+
+/* .box:active{
+    transform: rotate(80deg);
+    transform: translate();
+    border-radius: 100%;
+} */

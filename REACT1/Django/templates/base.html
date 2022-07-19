@@ -1,0 +1,49 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'main.css' %}">
+    <title>{% block title %} {% endblock %}</title>
+</head>
+
+<body>
+    <nav id="navbar">
+        <div class="container">
+            <div class="navbar__content">
+                <img width="180px" height="80px" src="{% static './img/logo.png' %}" alt="">
+                <div class="navbar__content__box">
+                    <h2><a href="{% url 'main' %}">Home</a></h2>
+                    <h2>Basket</h2>
+                    <div>
+                        <input class="inp" type="text" placeholder="Search" name="" id="">
+                        <button class="btn" type="submit">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    {% block content %}
+
+
+    {% endblock %}
+    <section>
+        <div class="container">
+            <h3>Browse By Name</h3>
+            <div class="section__text">
+                <h2>
+                    <a href="{% url 'information' %}">A</a> / <a href="">B</a> / <a href="">C</a> / <a href="">D</a> /
+                    <a href="">E</a> / <a href="">F</a> / <a href="">G</a> / <a href="">H</a> / <a href="">I</a> / <a
+                        href="">J</a> / <a href="">K</a> / <a href="">L</a> / <a href="">M</a> / <a href="">N</a> / <a
+                        href="">O</a> / <a href="">P</a> / <a href="">Q</a> / <a href="">R</a> / <a href="">S</a> / <a
+                        href="">T</a> / <a href="">U</a> / <a href="">V</a> / <a href="">W</a> / <a href="">X</a> / <a
+                        href="">Y</a> / <a href="">Z</a>
+                </h2>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

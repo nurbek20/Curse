@@ -1,0 +1,23 @@
+@import 'variables';
+
+h1 {
+    @include fz(100px, green);
+}
+
+.btn1 {
+    @include myBtn(
+        black, #fff, 20px, blue
+    );
+}
+
+.btn2 {
+    @include myBtn(
+        red, aqua, 50px, #333
+    );
+}
+
+
+
+// .btn:hover {
+//     background-color: red;
+// }

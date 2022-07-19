@@ -1,0 +1,2 @@
+model - Acer
+ram - 4

@@ -1,0 +1,42 @@
+.box{
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    margin: 100px;
+    position: relative;
+
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-image: url('https://img.championat.com/s/735x490/news/big/w/p/podruga-ronaldu-vylozhila-novoe-foto-ego-ocenil-kokorin_1595487833155279868.jpg');
+    border-radius: 100%;
+    animation: box3 3s infinite;
+    transition: 1s;
+    position: absolute;
+}
+
+
+@keyframes box3{
+    from{ 
+        top: 0;
+        left: 0;       
+        transform: rotate(-360deg);
+    }
+    50%{
+        top:0;
+        left: 400px;
+        transform: rotate(360deg);
+    }
+    75%{
+        top:0;
+        left: 400px;
+    }
+    100%{
+        top:0;
+        left: 0;
+    }
+    
+    
+}

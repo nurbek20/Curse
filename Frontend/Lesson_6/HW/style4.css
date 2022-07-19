@@ -1,0 +1,194 @@
+.box{
+    width: 800px;
+    height: 800px;
+    background-color: aqua;
+    margin: 5%;
+    position: relative;
+}
+
+.l{
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid black; */
+    border-radius: 50%;
+    transition: 2s;
+    position: absolute;
+}
+.box1{
+    background-color:blue;
+    animation: aq 3s infinite;
+}
+@keyframes aq{
+    from, to{
+        top: 0;
+        left: 0;
+    }
+    25%{
+        left: 0;
+        top: 750px;
+    }
+    50%{
+        top: 750px;
+        left: 750px;
+    }
+    75%{
+        left: 750px;
+        top: 0;
+    }
+}
+.box2{
+    background-color: blueviolet;
+    margin: 50px;
+    animation: bl 3s infinite;
+}
+@keyframes bl{
+    from, to{
+        top: 0px;
+        left: 0px;
+    }
+    25%{
+        left: 650px;
+        top: 0px;
+    }
+    50%{
+        top: 650px;
+        left: 650px;
+    }
+    75%{
+        left:0px;
+        top: 650px;
+    }
+}
+.box3{
+    background-color: brown;
+    margin: 100px;
+    animation: br 3s infinite;
+}
+@keyframes br{
+    from, to{
+        top: 0;
+        left: 0;
+    }
+    25%{
+        left: 0;
+        top: 550px;
+    }
+    50%{
+        top: 550px;
+        left: 550px;
+    }
+    75%{
+        left: 550px;
+        top: 0;
+    }
+}
+
+.box4{
+    background-color: chartreuse;
+    margin: 150px;
+    animation: ch 3s infinite;
+}
+@keyframes ch{
+    from, to{
+        top: 0px;
+        left: 0px;
+    }
+    25%{
+        left: 450px;
+        top: 0px;
+    }
+    50%{
+        top: 450px;
+        left: 450px;
+    }
+    75%{
+        left:0px;
+        top: 450px;
+    }
+}
+.box5{
+    background-color: crimson;
+    margin: 200px;
+    animation: cr 3s infinite;
+}
+@keyframes cr{
+    from, to{
+        top: 0;
+        left: 0;
+    }
+    25%{
+        left: 0;
+        top: 350px;
+    }
+    50%{
+        top: 350px;
+        left: 350px;
+    }
+    75%{
+        left: 350px;
+        top: 0;
+    }
+}
+
+.box6{
+    background-color: darkblue;
+    margin: 250px;
+    animation: da 3s infinite;
+}
+@keyframes da{
+    from, to{
+        top: 0px;
+        left: 0px;
+    }
+    25%{
+        left: 250px;
+        top: 0px;
+    }
+    50%{
+        top: 250px;
+        left: 250px;
+    }
+    75%{
+        left:0px;
+        top: 250px;
+    }
+}
+
+.box7{
+    background-color: darkred;
+    margin: 300px;
+    animation: dar 3s infinite;
+}
+@keyframes dar{
+    from, to{
+        top: 0;
+        left: 0;
+    }
+    25%{
+        left: 0;
+        top: 150px;
+    }
+    50%{
+        top: 150px;
+        left: 150px;
+    }
+    75%{
+        left: 150px;
+        top: 0;
+    }
+}
+.box8{
+    background-color: black;
+    margin: 380px;
+    animation: bla 3s infinite;
+}
+@keyframes bla{
+    from, to{
+        top: 0;
+        left: 0;
+    }
+    50%{
+        transform: rotate(3600deg);
+        border-radius: 0;
+    }
+}

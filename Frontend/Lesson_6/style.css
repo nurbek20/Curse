@@ -1,0 +1,49 @@
+.box{
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    margin: 100px;
+    position: relative;
+
+}
+.mini{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    /* animation-name: name; */
+    /* animation-duration: 10s;
+    animation-direction: 10s; */
+    animation: box1 2s infinite;
+    transition: 3s;
+}
+@keyframes box1{
+    from{
+        top:0;
+        left: 0;
+    }
+    20%{
+        top:0;
+        left:0;
+    }
+   
+    50%{
+        top: 0;
+        left: 400px;
+    }
+    60%{
+        top: 400px;
+        left: 0;
+    }
+    80%{
+        top: 400px;
+        left: 400px;
+    }
+    to{
+        top:0;
+        left: 0;
+    }
+    
+    
+}
+

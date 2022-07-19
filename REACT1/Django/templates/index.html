@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load static %}
+{% block title %} TheMeal {% endblock %}
+
+{% block content %}
+<body>
+   
+    <section id="section__latest">
+        <div class="container">
+            <h3>Latest Meals</h3>
+            <div class="section__Meal">
+                {% for q,w,e in total %}
+                <div class="section__Meal__card">
+                    <img width="250px" height="250px" src="{{w}}" alt="">
+                    <p>{{q}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section id="section__popular">
+        <div class="container">
+            <div class="border">
+                <h3>Popular Ingredients</h3>
+                <div class="section__Popular">
+                    {% for id,str in dic %}
+                    <div class="section__Popular__card">
+                        <img img width="200px" height="200px"
+                            src="https://www.themealdb.com/images/ingredients/{{str}}.png" alt="">
+                        <p>{{str}}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h3>Random Meals</h3>
+            <div class="section__random">
+                {% for strMeal, strImgMeal, idMeal in all_total %}
+                <div class="section__random__card">
+                    <img width="250px" height="250px" src="{{strImgMeal}}" alt="">
+                    <p>{{strMeal}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="border">
+                <h3>Random Ingredients</h3>
+                <div class="section__ingredients">
+                    {% for randomImg,mealId in finish %}
+                    <div class="section__ingredients__card">
+                        <img width="250px" height="250px"
+                            src="https://www.themealdb.com/images/ingredients/{{randomImg}}.png" alt="">
+                        <p>{{randomImg}}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</body>
+{% endblock %}
+
+<!-- </html> -->

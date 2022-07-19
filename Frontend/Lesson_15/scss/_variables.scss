@@ -1,0 +1,26 @@
+// * Переменные
+$fz: 100px;
+$blue-text: #21c9a5;
+$color: green;
+// * Шаблон
+
+@mixin myBtn($bg, $cr, $br, $bsh)
+{
+  padding: 15px 25px;
+  background-color: $bg;
+  color: $cr;
+  transition: .3s;
+  border-radius: $br;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 2px 2px 5px $bsh;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+// * Миксины
+@mixin fz($px, $cl) {
+  font-size: $px;
+  color:$cl;
+}

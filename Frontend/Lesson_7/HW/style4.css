@@ -1,0 +1,75 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-image: url('https://funart.pro/uploads/posts/2021-03/1617041523_45-p-oboi-krasivie-foto-prirodi-52.jpg');
+    background-position: center;
+    background-size: cover;
+    margin:5%;
+    position: relative;
+    
+}
+h2{
+    color: white;
+    position: absolute;
+    animation: sliden 2s;
+    left: 200px;
+    top: 200px;
+    opacity: calc(0);
+    animation-fill-mode: forwards;
+    
+}
+@keyframes sliden{
+    from{
+        opacity: calc(0);
+        /* left: 200px; */
+        top: 550px;
+    }
+    to{
+        opacity: calc(1);
+        top: 200px;
+        /* left: 200px; */
+    }
+}
+
+h1::before{
+    content: 'I ';
+    color: aqua;
+}
+
+h1::after{
+    content: ' You';
+    color: black;
+}
+
+
+.box3{
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+    position: relative;
+    overflow: hidden;
+    transition: 3s;
+}
+img{
+    position: absolute;
+    margin-left:20px;
+    margin-top: 20px;
+    transition: 3s;
+}
+img:hover{
+    /* margin-top: 20px; */
+    /* margin-left: 0px; */
+    bottom: 20px;
+}
+
+.box3 p{
+    position: absolute;
+    color: white;
+    right: 100px;
+    bottom: -100px;
+    transition: 3s;
+}
+.box3:hover p{
+    /* left: 0; */
+    bottom: 60px;
+}

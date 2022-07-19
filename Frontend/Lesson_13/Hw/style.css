@@ -1,0 +1,42 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.textYello {
+    background-color: yellow;
+    padding: 5px;
+    color: white;
+}
+.textRed {
+    background-color: yellow;
+    padding: 5px;
+    color: white;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.text {
+    font-family: 'Staatliches', sans-serif;
+}
+
+/* nav */
+/* #nav {
+    height: 50px;
+    background-color: #fff;
+}
+.nav__content {
+    display: grid;
+    grid-template-columns: 6fr 3fr 2fr;
+    align-items: center;
+} */

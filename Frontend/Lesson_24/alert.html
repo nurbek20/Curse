@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: #333;
+    }
+
+    img {
+        border-radius: 20px;
+        margin: 10px;
+    }
+</style>
+
+<body>
+    <div style="display: flex;">
+        <img class="cat" width="400px" height="400px" src="./img/VSy6kJDNq2pSXsCzb6cvYF.jpg" alt="cat">
+        <img class="dog" width="400px" height="400px" src="./img/_123979155_gettyimages-1064733482.jpg" alt="dog">
+    </div>
+    <div style="display: flex;">
+        <img class="tv" width="400px" height="400px" src="./img/tv.jpg" alt="tv">
+        <img class="laptop" width="400px" height="400px" src="./img/laptop.jpeg" alt="comp">
+    </div>
+    <div style="display: flex;">
+        <img class="nature" width="400px" height="400px" src="./img/nature.jpg" alt="nature">
+        <img class="ocean" width="400px" height="400px" src="./img/ocean.webp" alt="ocean">
+    </div>
+    <div class="">
+        <img class="none" width="400px" height="400px" src="./img/kak-pishetsya-ne-znayu-1.jpg" alt="nichego">
+    </div>
+
+    <script>
+        let cat = document.querySelector('.cat')
+        let dog = document.querySelector('.dog')
+        let none = document.querySelector('.none')
+        let tv = document.querySelector('.tv')
+        let laptop = document.querySelector('.laptop')
+        let nature = document.querySelector('.nature')
+        let ocean = document.querySelector('.ocean')
+        cat.style.display = 'none'
+        dog.style.display = 'none'
+        tv.style.display = 'none'
+        laptop.style.display = 'none'
+        nature.style.display = 'none'
+        ocean.style.display = 'none'
+        none.style.display = 'none'
+        let text = prompt('picture')
+        if (text == 'animals') {
+            cat.style.display = 'block'
+            dog.style.display = 'block'
+        } else if (text == 'cat') {
+            cat.style.display = 'block'
+        } else if (text == 'dog') {
+            dog.style.display = 'block'
+        } else if (text == 'technology') {
+            tv.style.display = 'block'
+            laptop.style.display = 'block'
+        } else if (text == 'tv') {
+            tv.style.display = 'block'
+        } else if (text == 'laptop') {
+            laptop.style.display = 'block'
+        } else if (text == 'nature') {
+            nature.style.display = 'block'
+            ocean.style.display = 'block'
+        } else if (text == 'ocean') {
+            ocean.style.display = 'block'
+        } else if (text == 'all') {
+            cat.style.display = 'block'
+            dog.style.display = 'block'
+            tv.style.display = 'block'
+            laptop.style.display = 'block'
+            nature.style.display = 'block'
+            ocean.style.display = 'block'
+        } else {
+            none.style.display = 'block'
+        }
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+a=int(input('1:'))
+b=int(input('2:'))
+c=int(input('3:'))
+d=int(input('4:'))
+print(a+b+c+d)
+print(a*b)
+print(d/a)
+print(a**2)
+print(b**2)
+print(c**2)
+print(d**2)
+
+
+a=input('Фамилия Имя')
+print('привет',a)

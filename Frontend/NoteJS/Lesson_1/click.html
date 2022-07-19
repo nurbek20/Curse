@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <button class="btn">+</button>
+        <button  class="click"></button>
+        <button class="btn1">-</button>
+    </div>
+    <script>
+        let btn=document.querySelector('.btn')
+        let btn1=document.querySelector('.btn1')
+        let click=document.querySelector('.click')
+        let i=0
+        btn.addEventListener('click', ()=>{
+            click.innerHTML=++i
+        })
+        btn1.addEventListener('click', ()=> {
+            click.innerHTML=i--
+        })
+    </script>
+</body>                                 
+</html>

@@ -1,0 +1,5 @@
+print(4**4**4)
+print(5+3)
+print(8<5)
+print(8>5)
+print(8==5)

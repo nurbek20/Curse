@@ -1,0 +1,54 @@
+body{
+    background-color:silver;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+h2{
+    margin-left: 300px;
+}
+.lebels{
+    padding-right:50px ;
+    margin-left: 30px;
+}
+.lbel{
+    padding-right: 55px;
+    margin-left: 30px;
+}
+.l{
+    padding-right: 52px;
+    margin-left: 30px;
+}
+.leb{
+    padding-right: 92px ;
+    margin-left: 30px;
+}
+.lebl{
+    padding-right: 65px;
+    margin-left: 30px;
+}
+.lebel{
+    padding-right: 37px;
+    margin-left: 30px;
+}
+.n{
+    margin-left: 30px;
+}
+.n1{
+    margin-left: 75px;
+}
+.n2{
+    padding-right: 86px;
+    margin-left: 30px;
+}
+.n3{
+    padding-right: 77px;
+    margin-left: 30px;
+}
+.n4{
+    margin-left: 180px;
+}
+.n5{
+    margin-left: 30px;
+}

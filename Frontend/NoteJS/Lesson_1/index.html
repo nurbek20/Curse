@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #011111;
+            min-height: 100vh;
+            font-family: 'Roboto', sans-serif;
+        } */
+
+        h6 {
+            /* font-size: 10px; */
+            color: #fff;
+        }
+
+        .main {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100px;
+            height: 100px;
+            position: relative;
+            border: 1px solid black;
+        }
+
+        .box {
+            position: absolute;
+            width: 75px;
+            height: 75px;
+            border: 1px solid black;
+            border-radius: 50%;
+            animation: 1s go linear infinite;
+            box-shadow: -15px 10px 30px red;
+        }
+
+        .box::before {
+            position: absolute;
+            content: "";
+            width: 25px;
+            height: 25px;
+            top: -10px;
+            height: 20px;
+            background: red;
+            transform: rotateZ(-37deg);
+            clip-path: polygon(0% 0%, 100% 45%, 0% 98%, 24% 49%);
+        }
+
+        @keyframes go {
+            0% {
+                transform: rotateZ(-360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="main">
+        <h6>Loading...</h6>
+        <div class="box"></div>
+    </div> -->
+    <input class="input" type="number" name="" id="">
+    <button class="btn1">+</button>
+    <button class="btn2">-</button>
+    <button class="btn3">*</button>
+    <button class="btn4">/</button>
+    <input class="input1" type="number" name="" id="">
+    <div>
+        <!-- <button class="otvet">start</button> -->
+    </div>
+    <h1></h1>
+    <script>
+        'use strict'
+        let h1 = document.querySelector('h1')
+        let inp = parseInt(document.querySelector('.input').value)
+        let inp1 = parseInt(document.querySelector('.input1').value)
+
+        let btn1 = document.querySelector('.btn1')
+        let btn2 = document.querySelector('.btn2')
+        let btn3 = document.querySelector('.btn3')
+        let btn4 = document.querySelector('.btn4')
+        let otvet = document.querySelector('.otvet')
+        btn1.addEventListener('click', () => {
+            h1.innerHTML ='otvet '+ ( inp + inp1)
+                })
+        // let alert = prompt('number')
+        // let alert1 = prompt('number')
+        // h1.innerHTML=alert+alert1
+        // let alert2 = alert(alert + alart1)
+    </script>
+</body>
+
+</html>

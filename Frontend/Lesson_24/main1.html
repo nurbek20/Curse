@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/main1.css">
+    <title>Document</title>
+    <style>
+        body {
+            position: relative;
+        }
+
+        .btn {
+            margin: 0 20px;
+            padding: 10px 30px;
+            border-radius: 9px;
+            background-color: orange;
+            border: none;
+            cursor: pointer;
+            position: absolute;
+        }
+
+        .btn:active {
+            background-color: rgb(85, 169, 64);
+        }
+
+        .box {
+            background-color: wheat;
+            left: -200px;
+            position: absolute;
+            width: 150px;
+            height: 210px;
+            border: 1px solid;
+            border-radius: 20px;
+            text-align: center;
+            transition: 2s;
+        }
+
+        .text {
+            transition: .2s;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <button class="btn">Меню</button>
+    <div class="box">
+        <p class="text">Закрыть</p>
+        <hr>
+        <p>Бефстроган</p>
+        <hr>
+        <p>Шаурма</p>
+        <hr>
+        <p>Лагман</p>
+    </div>
+    <br>
+    <!-- <div id="navMenu">
+    <span>contact</span>
+    <span>about</span>
+    <span>skill</span>
+</div> -->
+
+    <!-- <div class="gallery">
+    <img src="../Hackathon1/foto1/Rectangle 83.png" alt="">
+    <img src="../Hackathon1/foto2/Rectangle 146.png" alt="">
+</div> -->
+
+
+    <script>
+        let btn = document.querySelector('.btn');
+        let box = document.querySelector('.box');
+        let text = document.querySelector('.text');
+
+
+        btn.addEventListener('click', () => {
+            box.style.left = '0px'
+        })
+
+        text.addEventListener('click', () => {
+            box.style.left = '-200px'
+        })
+    </script>
+</body>
+
+</html>

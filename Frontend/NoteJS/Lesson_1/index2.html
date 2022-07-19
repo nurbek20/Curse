@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 1200px;
+            margin: 0 auto;
+            /* // border: 2px solid red; */
+        }
+
+        .navbar {
+            background-color: #000;
+            color: #fff;
+            width: 100%;
+        }
+
+        .navbar__content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+        }
+
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .list {
+            list-style: none;
+            display: flex;
+            gap: 25px;
+        }
+
+        li:hover {
+            border-bottom: 2px solid #87d2ff;
+        }
+
+        #toggler,
+        .navbar label {
+            display: none;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar__content">
+                <a href="#"><img width="150px" height="50px" src="" alt="Строй.png"></a>
+                <div>
+                    <label for="toggler"><i class="fa-solid fa-bars fa-2x"></i></i></label>
+                    <input type="checkbox" id="toggler">
+                    <div class="menu">
+                        <ul class="list">
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Skill</a></li>
+                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</body>
+
+</html>
